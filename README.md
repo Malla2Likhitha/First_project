@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL](https://github.com/Malla2Likhitha/First_project)
-- [Live Site URL](https://Malla2Likhitha.github.io)
 
 ## My process
 
