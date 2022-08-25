@@ -36,6 +36,7 @@ img{
   color: hsl(228, 45%, 44%);
   font-size: 0.75rem;
   text-align: center;
+  padding: 0 2rem 2rem 2rem;
 }
 body{
   background-color: hsl(212, 45%, 89%);
