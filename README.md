@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Screenshot 1](screenshot/Screenshot 1.png)
-[Screenshot 2](screenshot/Screenshot 2.png)
+![Screenshot 1](screenshot/Screenshot 1.png)
+![Screenshot 2](screenshot/Screenshot 2.png)
 
 ### Links
 
