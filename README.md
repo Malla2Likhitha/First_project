@@ -44,9 +44,12 @@ I want to focus on responsive designing for the next few days to learn more on r
 
 ### Useful resources
 
-- [](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- [](https://www.w3schools.com/)
-- [](https://developer.mozilla.org/en-US/)
+- []
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank"></a>
+- []
+<a href="https://www.w3schools.com/" target="_blank"></a>
+- []
+<a href="https://developer.mozilla.org/en-US/" target="_blank"></a>
 This helped me in understanding the topics by making them very simple to understand and learn. The course specified by Angela Yu explains the topics in a very interesting manner. I really liked this pattern and will use it going forward. I'd recommend it to anyone still learning this concept.
 
 ## Author
